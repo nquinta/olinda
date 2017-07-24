@@ -55,23 +55,6 @@ div {
 /*Content*/
 
 
-
-/*nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: rgb(168, 32, 29);
-}
-
-nav a {
-  text-decoration: none;
-  color: white;
-}
-
-ul li {
-  list-style: none;
-}*/
-
 nav {
   display: inline;
   background-color: #a8201d;
@@ -165,10 +148,9 @@ body span {
 #produto1,
 #produto2,
 #produto3,
-#produto4,
-#produto5 {
+#produto4 {
   display: inline-flex;
-  border-bottom: 0.5px solid lightgrey;
+  border-top: 0.5px solid lightgrey;
   justify-content: center;
   margin: 1.5rem;
 }
