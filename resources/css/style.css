@@ -40,14 +40,14 @@ div {
   display: block;
 }
 
-.flex-container {
+body .flex-container {
   display: inline-flex;
   flex-direction: column;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-.image-container {
+body .image-container {
   overflow: hidden;
 }
 
